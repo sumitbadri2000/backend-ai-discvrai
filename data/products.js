@@ -1,0 +1,42 @@
+export const products = [
+  {
+    id: 1,
+    name: "Acer Aspire 7",
+    category: "laptop",
+    price: 55000,
+    description: "Budget gaming laptop",
+    tags: ["gaming", "budget"],
+  },
+  {
+    id: 2,
+    name: "MacBook Air M1",
+    category: "laptop",
+    price: 85000,
+    description: "Lightweight premium laptop",
+    tags: ["apple", "premium"],
+  },
+  {
+    id: 3,
+    name: "Dell Inspiron 15",
+    category: "laptop",
+    price: 48000,
+    description: "Affordable office laptop",
+    tags: ["office", "budget"],
+  },
+  {
+    id: 4,
+    name: "iPhone 14",
+    category: "mobile",
+    price: 70000,
+    description: "Premium Apple smartphone",
+    tags: ["apple", "premium"],
+  },
+  {
+    id: 5,
+    name: "Samsung Galaxy S23",
+    category: "mobile",
+    price: 65000,
+    description: "High-end Android phone",
+    tags: ["android", "premium"],
+  },
+];
